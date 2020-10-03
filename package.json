@@ -1,0 +1,12 @@
+{
+  "name": "serverless-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "genius-lyrics": "^4.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
