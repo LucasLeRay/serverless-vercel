@@ -2,7 +2,7 @@
 
 Simple test Serverless API deployed on Vercel.
 
-More details here : 
+More details here : https://lucas-le-ray.com/blog/build-serverless-api-vercel-nodejs
 
 ## How to use
 
